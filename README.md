@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👋 mrgius3ppe </h1>
+<h1 align="left">Hola 👋 soy mrgius3ppe </h1>
 
 ###
 
