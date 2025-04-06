@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy un/a desarrollador apasionado por la programación, siempre en busca de nuevos retos y oportunidades para aprender y crecer. Me encanta trabajar con nuevas tecnologías y contribuir a proyectos de código abierto.</p>
+<p align="left">Soy un desarrollador apasionado por la programación, siempre en busca de nuevos retos y oportunidades para aprender y crecer. Me encanta trabajar con nuevas tecnologías y contribuir a proyectos de código abierto.</p>
 
 ###
 
